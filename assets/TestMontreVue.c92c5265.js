@@ -1,0 +1,1 @@
+import{_ as e}from"./TestMontre.vue_vue_type_script_setup_true_lang.cf47a628.js";import{d as o,f as t,o as r}from"./index.b9498596.js";const m=o({__name:"TestMontreVue",setup(a){return(n,s)=>(r(),t(e))}});export{m as default};
